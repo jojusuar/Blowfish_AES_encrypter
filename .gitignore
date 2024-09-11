@@ -1,0 +1,9 @@
+# Ejecutable
+encrypter
+
+# Object files
+*.o
+
+# program output
+*.enc
+*.dec
