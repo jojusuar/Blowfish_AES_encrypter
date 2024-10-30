@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/DwDgfO-B)
-# Proyecto Final Progamación de Sistemas.
+# Proyecto Final Progamación de Sistemas
 Programa de encriptación y desencriptación de archivos usando los algoritmos AES o BLOWFISH y claves con 128, 192 o 256 bits.
 
 ## Instrucciones
